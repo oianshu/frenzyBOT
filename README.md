@@ -1,39 +1,49 @@
 # Frenzy Bot Setup and Usage Documentation
 
-⭐️ twinkle the project ⭐️
+Fact : We are all made of stardust [⭐️]
+
+
+‎ 
 
 ## About
 
-**Frenzy Bot** is a [Discord](https://discord.com) bot that treats users to an engaging message-based game in server channels. Prioritizing interactive gameplay, it maximizes user interaction as well as robust admin powers. Users get a chance to win by posting messages in a specific channel, with distinct game features such as cooldown management, spam detection, and admin-controllable options for enhanced gaming.
+**Frenzy Bot** is a [Discord](https://discord.com) bot that treats users to an engaging message-based game in server channels. Prioritizing interactive gameplay, it maximizes user interaction as well as robust admin powers. Users get a chance to win by posting messages in a specific channel, with distinct game features such as cooldown management, spam detection, and admin-controllable option.
 
 
 ## Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/33743cac8e78050c0ee44db1cd79ed13be1cdc09.svg "Repobeats analytics image")
-‎ 
-
 
 ‎ 
-‎
-## Table of Contents
+‎ 
+‎ 
+‎ 
+
+‎ 
+‎ 
+
+## __Table of Contents__
 
 
-  - [About](#about)
-    - [Activity](#activity)
-  - [Table of Contents](#table-of-contents)
-  - [Pre-requisites](#pre-requisites)
-  - [Setting Up Environment](#setting-up-environment)
-  - [Installing Dependencies](#installing-dependencies)
-  - [Configuring the Bot](#configuring-the-bot)
-  - [Using the Bot](#using-the-bot)
-  - [Hosting the Bot](#hosting-the-bot)
-  - [Troubleshooting](#troubleshooting)
-    
- ‎ 
- ‎ 
- ‎ 
- ‎ 
- ‎ 
+ >  - [About](#about)
+ >   - [Activity](#activity)
+ > - [Table of Contents](#table-of-contents)
+ > - [Pre-requisites](#pre-requisites)
+ > - [Setting Up Environment](#setting-up-environment)
+ > - [Installing Dependencies](#installing-dependencies)
+ > - [Configuring the Bot](#configuring-the-bot)
+ > - [Using the Bot](#using-the-bot)
+ > - [Hosting the Bot](#hosting-the-bot)
+ > - [Troubleshooting](#troubleshooting)
+
+‎ 
+‎ 
+‎ 
+‎ 
+
+‎ 
+‎ 
+
 ## Pre-requisites
 
 > Before you begin, ensure you have the following:
@@ -41,10 +51,13 @@
 - Python 3.13.0: Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 - Discord Account and a server: You will need an active Discord account and a server to create a bot and test it.
 
-  ‎
-  ‎
-  ‎
-  ‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+
+‎ 
+‎ 
 
 ## Setting Up Environment
 
@@ -71,6 +84,8 @@
 ‎ 
 ‎ 
 ‎ 
+
+‎ 
 ‎ 
 
 ## Installing Dependencies
@@ -92,6 +107,7 @@ pip install -r requirements.txt
 ‎ 
 ‎ 
 ‎ 
+
 ‎ 
 ‎ 
 
@@ -106,15 +122,21 @@ pip install -r requirements.txt
   bot.run('YOUR_BOT_TOKEN_HERE')
   ```
 
-  ‎ 
-  ‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+
+‎ 
+‎ 
 
 ##  Using the Bot
 
 - 1. Starting the Message Game: In the text channel where the bot is active, use the command to start a message game:
-    ```python
-  /start_message_game chance: <number> cooldown: <number> role: <role mention>
-  ```
+     ```python
+     /start_message_game chance: <number> cooldown: <number> role: <role mention>
+     ```
+    
   - For example:
     ```python
     /start_message_game chance: 10 cooldown: 5 role: @Players
@@ -147,9 +169,10 @@ pip install -r requirements.txt
 ‎ 
 ‎ 
 ‎ 
-‎ ‎ 
 ‎ 
 
+‎ 
+‎ 
 
 ## Hosting the Bot
 
@@ -157,7 +180,7 @@ If you want your bot to be online 24/7, consider hosting it on cloud services. H
 
 > a. Hosting on Heroku
 
-1. Create a Heroku Account: Sign up on Heroku.
+1. Create a Heroku Account: Sign up on [Heroku](https://www.heroku.com).
 
 2. Install the Heroku CLI: Follow the instructions on Heroku CLI Installation.
 
@@ -175,14 +198,19 @@ If you want your bot to be online 24/7, consider hosting it on cloud services. H
    ```
 6. Deploy Your Bot: Commit your changes and push to Heroku:
 
-  ```bash
-  git add .
-  git commit -m "Deploy Frenzy Bot"
-  git push heroku master
-  ```
+   ```bash
+   git add .
+   git commit -m "Deploy Frenzy Bot"
+   git push heroku master
+   ```
 
 ‎ 
+‎ 
+‎ 
+‎ 
 
+‎ 
+‎ 
 
 ## Troubleshooting
 
@@ -202,4 +230,4 @@ If you want your bot to be online 24/7, consider hosting it on cloud services. H
 
    
 
-<sub><sup>&copy; 2025 Zephnis</a>.</sup></sub>
+<sub><sup>&copy; 2025 [Zephnis](https://github.com/Zephnis)</a>.</sup></sub>

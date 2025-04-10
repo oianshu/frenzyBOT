@@ -17,16 +17,12 @@ Fact : We are all made of stardust [⭐️]
 ‎ 
 ‎ 
 ‎ 
-‎ 
-
-‎ 
-‎ 
 
 ## __Table of Contents__
 
 
  >  - [About](#about)
- >   - [Activity](#activity)
+ >  - [Activity](#activity)
  > - [Table of Contents](#table-of-contents)
  > - [Pre-requisites](#pre-requisites)
  > - [Setting Up Environment](#setting-up-environment)
@@ -62,7 +58,7 @@ Fact : We are all made of stardust [⭐️]
 ## Setting Up Environment
 
 > Create a Discord Bot Account:
-- Go to the Discord Developer Portal.
+- Go to the Discord [Developer Portal](https://discord.com/developers/applications).
 - Click on "New Application" and enter a name for your bot.
 - Navigate to the "Bot" section and click "Add Bot". Confirm the action.
 
@@ -93,8 +89,8 @@ Fact : We are all made of stardust [⭐️]
 1. Clone the Repository: Open your terminal and clone the Frenzy Bot repository:
  
  ```python
-git clone https://github.com/yourusername/frenzy-bot.git
-cd frenzy-bot
+git clone https://github.com/Zephins/FrenzyBot.git
+cd FrenzyBot
 ```
 
 2. Install the Required Packages: (Ensure you're in the bot's directory.) You can install the required dependencies using pip:

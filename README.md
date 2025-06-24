@@ -4,10 +4,13 @@ Fact : We are all made of stardust [⭐️]
 
 
 ‎ 
-
 ## About
 
 **Frenzy Bot** is a [Discord](https://discord.com) bot that treats users to an engaging message-based game in server channels. Prioritizing interactive gameplay, it maximizes user interaction as well as robust admin powers. Users get a chance to win by posting messages in a specific channel, with distinct game features such as cooldown management, spam detection, and admin-controllable option.
+
+‎ 
+‎ 
+
 
 
 ## Activity
@@ -226,4 +229,4 @@ If you want your bot to be online 24/7, consider hosting it on cloud services. H
 
    
 
-<sub><sup>&copy; 2025 [Zephnis](https://github.com/Zephnis)</a>.</sup></sub>
+<sub><sup>&copy; 2025 [oianshu](https://github.com/oianshu)</a>.</sup></sub>

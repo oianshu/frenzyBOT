@@ -13,19 +13,10 @@ Fact : We are all made of stardust [⭐️]
 
 
 
-## Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/33743cac8e78050c0ee44db1cd79ed13be1cdc09.svg "Repobeats analytics image")
-
-‎ 
-‎ 
-‎ 
-
 ## __Table of Contents__
 
 
  >  - [About](#about)
- >  - [Activity](#activity)
  > - [Table of Contents](#table-of-contents)
  > - [Pre-requisites](#pre-requisites)
  > - [Setting Up Environment](#setting-up-environment)
@@ -40,10 +31,7 @@ Fact : We are all made of stardust [⭐️]
 ‎ 
 ‎ 
 
-‎ 
-‎ 
-
-## Pre-requisites
+‎ ## Pre-requisites
 
 > Before you begin, ensure you have the following:
 

@@ -31,7 +31,7 @@ Fact : We are all made of stardust [⭐️]
 ‎ 
 ‎ 
 
-‎ ## Pre-requisites
+## Pre-requisites
 
 > Before you begin, ensure you have the following:
 
